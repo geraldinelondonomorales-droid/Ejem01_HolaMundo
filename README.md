@@ -3,6 +3,7 @@
 Estamos en el **Centro Gregorio Fernandez**. *Éste es un primer proyecto Github*.
 
 > Centro de formación Gregorio Fernández, Valladolid.
+
 El conjunto de tareas que tenemos que realizar es:
 1. Crear el proyecto
 2. Inicializarlo
@@ -21,3 +22,5 @@ Hemos colaborado en el proyecto:
 [Gregorio Fernández](https://www.example.com)
 
 | Versión | Modificación | Propietario de la modificación |
+| --- | --- | --- |
+| 1.0 | Creación del readme | Geraldine Londoño |
