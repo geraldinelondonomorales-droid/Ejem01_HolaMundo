@@ -24,3 +24,19 @@ Hemos colaborado en el proyecto:
 | Versión | Modificación | Propietario de la modificación |
 | --- | --- | --- |
 | 1.0 | Creación del readme | Geraldine Londoño |
+
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
+
+
+
+
+
