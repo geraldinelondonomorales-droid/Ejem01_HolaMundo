@@ -40,8 +40,7 @@ Página: [^1]
 
 ---
 
-	Madrid
-: capital de España
+	Madrid: capital de España
 
 
 
