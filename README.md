@@ -34,9 +34,16 @@ Hemos colaborado en el proyecto:
 }
 ```
 
-Here's a sentence with a footnote. [^1]
+Página: [^1]
 
-[^1]: This is the footnote.
+[^1]: Esto es un pie de pág.
+
+---
+
+	Madrid
+: capital de España
+
+
 
 
 
