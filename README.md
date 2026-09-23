@@ -12,3 +12,5 @@ Hemos colaborado en el proyecto:
 - Pedro
 - Lucas
 - Ana
+
+Ésta modificación nos sirve para aprender Markdown, que por ejemplo los títulos *<H1> </H1>* los coloca con una almohadilla.
